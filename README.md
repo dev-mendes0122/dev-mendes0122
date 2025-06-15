@@ -1,7 +1,7 @@
 <p align="center">
 💻 IT Technician & Web Developer <br>
-🚀 Building applications to improve everyday work<br>
-🌱 Currently learning: Flask, modern Front-end, automations, and databases<br>
+ Building applications to improve everyday work<br>
+ Currently learning: Flask, modern Front-end, automations, and databases<br>
 </p>
 
 ---
