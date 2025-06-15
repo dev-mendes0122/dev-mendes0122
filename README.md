@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/dev-mendes0122/dev-mendes0122/main/banner.png" width="80%" height="200" align="center" />
+<div align="center">
+<img src="https://raw.githubusercontent.com/dev-mendes0122/dev-mendes0122/main/banner.png" width="80%" height="280" />
+</div>
 
 <p align="center">
 💻 IT Technician & Web Developer <br>
