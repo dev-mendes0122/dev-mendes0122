@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/dev-mendes0122/dev-mendes0122/main/banner.png" width="80%" height="280" />
+<img src="https://raw.githubusercontent.com/dev-mendes0122/dev-mendes0122/main/banner.png" width="80%" height="350" />
 </div>
 
 <p align="center">
