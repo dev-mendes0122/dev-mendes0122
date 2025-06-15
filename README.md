@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/dev-mendes0122/dev-mendes0122/main/banner.png" width="100%" />
+
 <p align="center">
 💻 IT Technician & Web Developer <br>
  Building applications to improve everyday work<br>
