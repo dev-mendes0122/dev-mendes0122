@@ -1,12 +1,11 @@
 <p align="center">
-  💻 Técnico em TI & Desenvolvedor Web <br>
-  🚀 Construindo aplicações para o dia a dia no trabalho<br>
-  🌱 Estudando: Flask, Front-end moderno, automações e banco de dados<br>
+💻 IT Technician & Web Developer <br>
+🚀 Building applications to improve everyday work<br>
+🌱 Currently learning: Flask, modern Front-end, automations, and databases<br>
 </p>
 
 ---
 
-### 🚀 Tecnologias que uso
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
@@ -17,8 +16,6 @@
 </div>
 
 ---
-
-### 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-mendes0122&show_icons=true&theme=radical" />
